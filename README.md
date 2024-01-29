@@ -4,7 +4,7 @@ Bienvenido al repositorio de mi proyecto acerca de análisis de sentimiento en c
 <div id="image-container">
     <a href="https://logowik.com/tensorflow-vector-logo-8381.html"><img src="https://logowik.com/content/uploads/images/tensorflow4903.jpg" width="190"></a>
     <a href="https://logowik.com/python-icon-56630.html"><img src="https://logowik.com/content/uploads/images/python4089.logowik.com.webp" width="140"></a>
-    <a><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBuKl17m45lwX8lN4T8uLBssadt7eANTtqBQ&usqp=CAU" width="120"></a>
+    <a><img src="https://c1.klipartz.com/pngpicture/33/1008/sticker-png-python-logo-programming-language-executable-computer-program-plex-data-software-development-kit-anaconda-thumbnail.png" width="120"></a>
 </div>
 
 
