@@ -1,6 +1,6 @@
-RNN_model.h5
 IMDB_sentiment.csv
 reviews_filmaffinity.csv
 deploy_env
 __pycache__
 data_cleaned.csv
+.git
